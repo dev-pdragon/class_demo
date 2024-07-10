@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL filesdsemo_venv/
 
 demo_venv/
+*.env
 __pycache__/
 *.py[cod]
 *$py.class
