@@ -1,3 +1,3 @@
-# Class 7-2-02
+# Class 6-7-25
 ## Git and GitHub Example
 ** Example **
